@@ -2,6 +2,16 @@
 
 > Links to slides and other resources from our meetings
 
+## 2016.09.22
+
+A workshop! Learning Node.js with special guest NodeSchool Cincinnati
+
+* [Slides](https://docs.google.com/presentation/d/1HIS_LuzGYJk_drVDzhUDmqEe2axu69OlJhZhP4rAMAw/edit?usp=sharingt)
+* Node.js workshop
+	* [NodeSchool](http://nodeschool.io/)
+	* [NodeSchool Cincinnati](https://github.com/nodeschool/cincinnati)
+	* [learnyounode](https://github.com/workshopper/learnyounode)
+
 ## 2016.09.08
 
 Joint meeting with IEEE, ACM-W, and special guest GE Appliances, a Haier company.
