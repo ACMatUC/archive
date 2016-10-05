@@ -2,6 +2,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2016.10.05
+
+A 'Hackathon 101' meeting to prepare for [RevolutionUC](http://revolutionuc.com/)!
+
+* [Slides](https://docs.google.com/presentation/d/1qnlEIWECIevduQwGma6RBl_DfuqA6BHQ8n38-Roxxw8/edit?usp=sharing)
+
 ## 2016.09.22
 
 A workshop! Learning Node.js with special guest NodeSchool Cincinnati
