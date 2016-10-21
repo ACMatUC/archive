@@ -2,6 +2,13 @@
 
 > Links to slides and other resources from our meetings
 
+## 2016.10.20
+
+'Intro to Web' workshop!
+
+* [Slides](https://docs.google.com/presentation/d/1VMxMrguemXFgPNp_huvdj4W1iBVnODMKY916sNqpjBE/edit?usp=sharing)
+* [Web workshop](https://github.com/ACMatUC/web-primer)
+
 ## 2016.10.05
 
 A 'Hackathon 101' meeting to prepare for [RevolutionUC](http://revolutionuc.com/)!
