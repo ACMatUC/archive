@@ -2,6 +2,13 @@
 
 > Links to slides and other resources from our meetings
 
+## 2016.11.03
+
+Build a GroupMe bot workshop!
+
+* [Slides](https://docs.google.com/presentation/d/1Lv_GbOb2KByQRyfyv6RUZFUfeuH59wmRGA_3R9G2o9I/edit?usp=sharing)
+* [GroupMe bot workshop](https://github.com/ACMatUC/groupme-bot-starter)
+
 ## 2016.10.20
 
 'Intro to Web' workshop!
