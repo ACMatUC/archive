@@ -2,6 +2,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2016.11.17
+
+A SSH (secure shell) workshop!
+
+* [Slides](https://docs.google.com/presentation/d/1lNHSPsLMlUeXKGW3BQV5B_pd6c2pJXXoBZSMj_5MPPk/edit?usp=sharing)
+
 ## 2016.11.03
 
 Build a GroupMe bot workshop!
