@@ -5,7 +5,7 @@
 ## 2016.11.17
 
 A SSH (secure shell) workshop!
-
+* [Recorded Talk](https://www.youtube.com/watch?v=WqzD3g3FHrM)
 * [Slides](https://docs.google.com/presentation/d/1lNHSPsLMlUeXKGW3BQV5B_pd6c2pJXXoBZSMj_5MPPk/edit?usp=sharing)
 
 ## 2016.11.03
