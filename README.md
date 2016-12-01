@@ -2,11 +2,18 @@
 
 > Links to slides and other resources from our meetings
 
+## 2016.12.01
+
+Final meeting of the semester!
+
+* [Slides](https://docs.google.com/presentation/d/1FBHIKJ9mN4uCoHgZlbeJ72MSgnTzzDMpYfQjrPefVlo/edit?usp=sharing)
+
 ## 2016.11.17
 
 A SSH (secure shell) workshop!
-* [Recorded Talk](https://www.youtube.com/watch?v=WqzD3g3FHrM)
+
 * [Slides](https://docs.google.com/presentation/d/1lNHSPsLMlUeXKGW3BQV5B_pd6c2pJXXoBZSMj_5MPPk/edit?usp=sharing)
+* [Recorded Talk](https://www.youtube.com/watch?v=WqzD3g3FHrM)
 
 ## 2016.11.03
 
