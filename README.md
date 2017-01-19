@@ -2,6 +2,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.01.19
+
+First meeting of the spring semester and a co-op panel!
+
+* [Slides](https://docs.google.com/presentation/d/1nu5tpDrHQDA6dOjPrOcebgfLFwGdENoGJLaNo0QJQXg/edit?usp=sharing)
+
 ## 2016.12.01
 
 Final meeting of the semester!
