@@ -2,6 +2,13 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.01.25
+
+CS review session: The core concepts of C++
+
+* [Slides](https://docs.google.com/presentation/d/1x9-qThVSb9RuVaQkrDe3BxEIHe4LFINm43n85MYlWlY/edit?usp=sharing)
+* [C++ language review](https://github.com/ACMatUC/cpp-language-review)
+
 ## 2017.01.19
 
 First meeting of the spring semester and a co-op panel!
