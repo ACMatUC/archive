@@ -8,6 +8,7 @@ CS review session: The core concepts of C++
 
 * [Slides](https://docs.google.com/presentation/d/1x9-qThVSb9RuVaQkrDe3BxEIHe4LFINm43n85MYlWlY/edit?usp=sharing)
 * [C++ language review](https://github.com/ACMatUC/cpp-language-review)
+* [Recorded Talk](https://www.youtube.com/watch?v=uNkR657eKj0)
 
 ## 2017.01.19
 
