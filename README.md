@@ -2,6 +2,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.02.02
+
+Technical interview workshop!
+
+* [Slides](https://docs.google.com/presentation/d/1_N98u6MDGPXuVMa2JTS8O0lA_c3UsoSeufmHBvu-lcI)
+
 ## 2017.01.25
 
 CS review session: The core concepts of C++
