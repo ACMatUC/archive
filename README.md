@@ -2,6 +2,13 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.02.16
+
+Talk: The world of Linux
+
+* [Slides](https://docs.google.com/presentation/d/1vF2FS31Qs5saH6OruV6ziUZnjv0n4c8Wm4spBmJIQxw/edit?usp=sharing)
+* [Recorded Talk](https://www.youtube.com/watch?v=fu2yg8PCzmA)
+
 ## 2017.02.02
 
 Technical interview workshop!
