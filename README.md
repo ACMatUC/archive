@@ -2,6 +2,13 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.02.22
+
+CS review session: The core concepts of C++ - Object Oriented Programming
+
+* [Slides](https://docs.google.com/presentation/d/1CBf_X7SvBj4rvAzCpt2nFxNOgnG8czPdPh45hhSDY8w/edit?usp=sharing)
+* [C++ language review](https://github.com/ACMatUC/cpp-language-review)
+
 ## 2017.02.16
 
 Talk: The world of Linux
@@ -17,7 +24,7 @@ Technical interview workshop!
 
 ## 2017.01.25
 
-CS review session: The core concepts of C++
+CS review session: The core concepts of C++ - Pointers
 
 * [Slides](https://docs.google.com/presentation/d/1x9-qThVSb9RuVaQkrDe3BxEIHe4LFINm43n85MYlWlY/edit?usp=sharing)
 * [C++ language review](https://github.com/ACMatUC/cpp-language-review)
