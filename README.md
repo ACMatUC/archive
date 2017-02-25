@@ -8,6 +8,7 @@ CS review session: The core concepts of C++ - Object Oriented Programming
 
 * [Slides](https://docs.google.com/presentation/d/1CBf_X7SvBj4rvAzCpt2nFxNOgnG8czPdPh45hhSDY8w/edit?usp=sharing)
 * [C++ language review](https://github.com/ACMatUC/cpp-language-review)
+* [Recorded Talk](https://www.youtube.com/watch?v=p4G3R4KJJ0Q)
 
 ## 2017.02.16
 
