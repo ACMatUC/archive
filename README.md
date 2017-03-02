@@ -2,6 +2,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.03.02
+
+Talk: Progressive Web Apps by [Dom Farolino](https://github.com/domfarolino)
+
+* [Slides](https://docs.google.com/presentation/d/1Rmlm8wGphFAJj9rOMLD7SxCqRyXoCUHepmuPAkQvKZQ/edit?usp=sharing)
+
 ## 2017.02.22
 
 CS review session: The core concepts of C++ - Object Oriented Programming
