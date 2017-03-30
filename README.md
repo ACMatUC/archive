@@ -2,6 +2,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.03.30
+
+Hackathon 101 (for [RevolutionUC](http://revolutionuc.com/) Spring 2017) and officer nominations for 2017-18
+
+* [Slides](https://docs.google.com/presentation/d/12Wk2rm9-hX4pEO9Sz5b9jRXRf_G5WhZY69lF_85HR3I/edit?usp=sharing)
+
 ## 2017.03.02
 
 Talk: Progressive Web Apps by [Dom Farolino](https://github.com/domfarolino)
