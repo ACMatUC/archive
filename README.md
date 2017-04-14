@@ -2,6 +2,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.04.13
+
+Officer elections for 2017-18
+
+* [Election results](https://twitter.com/ACMatUCorg/status/852921223797493762)
+
 ## 2017.03.30
 
 Hackathon 101 (for [RevolutionUC](http://revolutionuc.com/) Spring 2017) and officer nominations for 2017-18
