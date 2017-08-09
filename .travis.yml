@@ -1,0 +1,15 @@
+language: ruby
+
+rvm:
+  - 2.4.1
+
+before_script:
+  - gem install mdl
+  - gem install awesome_bot
+
+script:
+  - mdl README.md # lint markdown (docs -> github.com/markdownlint/markdownlint)
+  - awesome_bot README.md --allow-dupe # lint links (docs -> github.com/dkhamsing/awesome_bot)
+
+notifications:
+  email: false
