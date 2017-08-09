@@ -1,6 +1,6 @@
 # Archive
 
-[![Build Status](https://travis-ci.org/acmatuc/archive.svg?branch=master)](https://travis-ci.org/acmatuc/archive)
+[![Build Status](https://travis-ci.org/ACMatUC/archive.svg?branch=master)](https://travis-ci.org/ACMatUC/archive)
 
 > Links to slides and other resources from our meetings
 
