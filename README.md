@@ -98,9 +98,9 @@ A workshop! Learning Node.js with special guest NodeSchool Cincinnati
 
 * [Slides](https://docs.google.com/presentation/d/1HIS_LuzGYJk_drVDzhUDmqEe2axu69OlJhZhP4rAMAw/edit?usp=sharingt)
 * Node.js workshop
-	* [NodeSchool](http://nodeschool.io/)
-	* [NodeSchool Cincinnati](https://github.com/nodeschool/cincinnati)
-	* [learnyounode](https://github.com/workshopper/learnyounode)
+  * [NodeSchool](http://nodeschool.io/)
+  * [NodeSchool Cincinnati](https://github.com/nodeschool/cincinnati)
+  * [learnyounode](https://github.com/workshopper/learnyounode)
 
 ## 2016.09.08
 
@@ -114,5 +114,5 @@ First meeting of the 2016 Fall semester and a Git workshop
 
 * [Slides](https://docs.google.com/presentation/d/1Y-R_sZl63O_39tnOIbn9Huri1s9gLgi3Yb1akCzFEo0/edit?usp=sharing)
 * Git workshop
-	* [Slides](https://docs.google.com/presentation/d/1iZkIKBSVzhJRVIUgU1Lyav5LrjOXcKG428YARdFFeYo/edit?usp=sharing)
-	* [Repo](https://github.com/ACMatUC/LearninGit)
+  * [Slides](https://docs.google.com/presentation/d/1iZkIKBSVzhJRVIUgU1Lyav5LrjOXcKG428YARdFFeYo/edit?usp=sharing)
+  * [Repo](https://github.com/ACMatUC/LearninGit)
