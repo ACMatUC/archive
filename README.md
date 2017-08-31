@@ -4,6 +4,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.08.31
+
+First meeting of the Fall 2017 semester
+
+* [Slides](https://docs.google.com/presentation/d/1bX8QRSroTcwNWBRVgZttvOZimsCO_-Curk2D-64tFOY/edit?usp=sharing)
+
 ## 2017.04.13
 
 Officer elections for 2017-18
