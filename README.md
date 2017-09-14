@@ -4,6 +4,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.09.14
+
+A Git workshop!
+
+* [Slides](https://docs.google.com/presentation/d/1t5z-FvV7Nd0VxonBly5CSaoY3bJsB5fXScHliFXB0M8/edit?usp=sharing)
+
 ## 2017.08.31
 
 First meeting of the Fall 2017 semester
