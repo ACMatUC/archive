@@ -4,10 +4,17 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.09.28
+
+A web primer workshop!
+
+* [Slides](https://docs.google.com/presentation/d/1lP0835ZoUuLYLr5NBhpifU3R7HQrlE2v0PdTK1pJw6w/edit?usp=sharing)
+
 ## 2017.09.14
 
 A Git workshop!
 
+* [Recorded meeting](https://www.youtube.com/watch?v=5akNrYN8K6w)
 * [Slides](https://docs.google.com/presentation/d/1t5z-FvV7Nd0VxonBly5CSaoY3bJsB5fXScHliFXB0M8/edit?usp=sharing)
 
 ## 2017.08.31
