@@ -8,6 +8,7 @@
 
 A web primer workshop!
 
+* [Recorded meeting](https://www.youtube.com/watch?v=seIRSHLxQ20)
 * [Slides](https://docs.google.com/presentation/d/1lP0835ZoUuLYLr5NBhpifU3R7HQrlE2v0PdTK1pJw6w/edit?usp=sharing)
 
 ## 2017.09.14
