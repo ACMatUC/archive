@@ -4,6 +4,14 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.10.12
+
+'Intro to Data Science' talk by guest speakers [Taylor Edmiston](https://github.com/tedmiston) and [Viraj Parekh](https://github.com/vparekh94) from [Astronomer](https://www.astronomer.io/)!
+
+* Intro to Data Science
+  * Data engineering - [Airflow and Spark Streaming at Astronomer](https://paper.dropbox.com/doc/Airflow-Spark-talk-v2.0-5own4Nlz8MhdwKQ8QhIqj)
+* [ACM@UC general updates](https://docs.google.com/presentation/d/1IClA4ENuajz65w6kv0ihtsEgRcy52HWJ_9Ltk2-fEgk/edit?usp=sharing)
+
 ## 2017.09.28
 
 A web primer workshop!
