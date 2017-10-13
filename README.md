@@ -9,6 +9,9 @@
 'Intro to Data Science' talk by guest speakers [Taylor Edmiston](https://github.com/tedmiston) and [Viraj Parekh](https://github.com/vparekh94) from [Astronomer](https://www.astronomer.io/)!
 
 * Intro to Data Science
+  * Data science
+    * [How does regular season LeBron differ from playoff LeBron?](https://nbviewer.jupyter.org/github/vparekh94/nba_talk/blob/master/talk_outline.ipynb)
+    * [GitHub repo](https://github.com/vparekh94/nba_talk) (PRs welcome!)
   * Data engineering - [Airflow and Spark Streaming at Astronomer](https://paper.dropbox.com/doc/Airflow-Spark-talk-v2.0-5own4Nlz8MhdwKQ8QhIqj)
 * [ACM@UC general updates](https://docs.google.com/presentation/d/1IClA4ENuajz65w6kv0ihtsEgRcy52HWJ_9Ltk2-fEgk/edit?usp=sharing)
 
