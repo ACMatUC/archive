@@ -8,6 +8,7 @@
 
 'Intro to Data Science' talk by guest speakers [Taylor Edmiston](https://github.com/tedmiston) and [Viraj Parekh](https://github.com/vparekh94) from [Astronomer](https://www.astronomer.io/)!
 
+* [Recorded meeting](https://www.youtube.com/watch?v=46AdPb0Gtu4)
 * Intro to Data Science
   * Data science
     * [How does regular season LeBron differ from playoff LeBron?](https://nbviewer.jupyter.org/github/vparekh94/nba_talk/blob/master/talk_outline.ipynb)
