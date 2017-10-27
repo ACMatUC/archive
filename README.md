@@ -4,6 +4,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.10.26
+
+[ACM-ICPC](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest) and competitive programming practice
+
+* [ACM@UC general updates](https://docs.google.com/presentation/d/1VsliboVMWYWY0Cqeuarh_L5wSXySUn-yv6tlQM_XJqI/edit?usp=sharing)
+
 ## 2017.10.12
 
 'Intro to Data Science' talk by guest speakers [Taylor Edmiston](https://github.com/tedmiston) and [Viraj Parekh](https://github.com/vparekh94) from [Astronomer](https://www.astronomer.io/)!
