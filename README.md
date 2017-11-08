@@ -4,11 +4,18 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.11.09
+
+'AWS Tech Talk' presentation and demo by [Andrew Brooke](https://github.com/andrewbrooke) and [Caleb Adcock](https://github.com/calebadcock)
+* [Slides](https://docs.google.com/presentation/d/1tPk2Pssd2_AVXWl4-x69ADyBmJO-5FkARIo9zhJJU4U/edit?usp=sharing)
+* [Github Repository](https://github.com/andrewbrooke/acm-aws-demo)
+
 ## 2017.10.26
 
 [ACM-ICPC](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest) and competitive programming practice
 
 * [ACM@UC general updates](https://docs.google.com/presentation/d/1VsliboVMWYWY0Cqeuarh_L5wSXySUn-yv6tlQM_XJqI/edit?usp=sharing)
+* [Recorded meeting](https://www.youtube.com/watch?v=Mr5h9wWDfYE&t=2s)
 
 ## 2017.10.12
 
