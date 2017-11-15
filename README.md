@@ -11,6 +11,7 @@
 * [ACM@UC general updates](https://docs.google.com/presentation/d/1pu6zYcOj759ei_1WnzeOKB-qIOYz-RwOvhsGarKfqzM/edit?usp=sharing)
 * [Slides](https://docs.google.com/presentation/d/1tPk2Pssd2_AVXWl4-x69ADyBmJO-5FkARIo9zhJJU4U/edit?usp=sharing)
 * [Github Repository](https://github.com/andrewbrooke/acm-aws-demo)
+* [Recorded meeting](https://www.youtube.com/watch?v=v226PPfyS0M)
 
 ## 2017.10.26
 
