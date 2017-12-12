@@ -4,6 +4,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2017.11.30
+
+Final meeting of the Fall 2017 semester!
+
+* [Slides](https://docs.google.com/presentation/d/1tc9pVs5kHIscNe6UxrYZS5ih2JQy_Oal5k0EOMJzvqU/edit?usp=sharing)
+
 ## 2017.11.09
 
 'AWS Tech Talk' presentation and demo by [Andrew Brooke](https://github.com/andrewbrooke) and [Caleb Adcock](https://github.com/calebadcock)
