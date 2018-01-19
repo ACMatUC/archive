@@ -4,6 +4,13 @@
 
 > Links to slides and other resources from our meetings
 
+## 2018.01.18
+
+'Intro to Cryptocurrency Talk' from @snyderks and the first meeting of the Spring 2018 semester
+
+* [Slides](https://docs.google.com/presentation/d/10qLKPEamF78bsfpaX-VJ3Fvtp4VomEqnwHVM7ByUkb0/edit?usp=sharing)
+* [ACM@UC general updates](https://docs.google.com/presentation/d/1ni2HTa8y1AtKO8H1SptdaCdpYotoAfVsv2Gt3fm43NE/edit?usp=sharing)
+
 ## 2017.11.30
 
 Final meeting of the Fall 2017 semester!
