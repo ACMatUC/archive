@@ -4,6 +4,16 @@
 
 > Links to slides and other resources from our meetings
 
+## 2018.02.01
+
+Technical interview practice
+
+* [Slides](https://docs.google.com/presentation/d/1p98zkfzTHBrufL8iu0uaP-I7Sd8lrZDun6RD8jqAsBM/edit?usp=sharing)
+* Practice problems
+  * [Set one](https://docs.google.com/document/d/1S-aML70Uu0s5Mgu2ZgBaDnibD89ccFcCHgfdrSL6r6Y/edit?usp=sharing)
+  * [Set two](https://docs.google.com/document/d/1pNCiO5zqzMJp1HPAMn63StHwGf4MLaR0HNhinXOJWbs/edit?usp=sharing)
+  * [Set three](https://docs.google.com/document/d/1cKsUthxkzTNH5uRY576WXkYKf9EPoKRCsBB5txTILyk/edit?usp=sharing)
+
 ## 2018.01.18
 
 'Intro to Cryptocurrency Talk' from @snyderks and the first meeting of the Spring 2018 semester
