@@ -8,6 +8,7 @@
 
 Technical interview practice
 
+* [Recorded meeting](https://www.youtube.com/watch?v=ygw20ZhrvaE)
 * [Slides](https://docs.google.com/presentation/d/1p98zkfzTHBrufL8iu0uaP-I7Sd8lrZDun6RD8jqAsBM/edit?usp=sharing)
 * Practice problems
   * [Set one](https://docs.google.com/document/d/1S-aML70Uu0s5Mgu2ZgBaDnibD89ccFcCHgfdrSL6r6Y/edit?usp=sharing)
