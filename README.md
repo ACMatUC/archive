@@ -8,6 +8,7 @@
 
 [Docker](https://www.docker.com/) workshop (MLH Localhost)
 
+* [Recorded meeting](https://www.youtube.com/watch?v=bodB4KgdcaQ)
 * [Slides](https://docs.google.com/presentation/d/1bQX9fBWwmiku-wkv4eg2q44rcHLZ8rF9Iy0IjJVaRUk/edit?usp=sharing)
 
 ## 2018.02.01
