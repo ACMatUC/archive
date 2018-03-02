@@ -4,6 +4,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2018.03.01
+
+Hackathon 101 (for [RevolutionUC](http://revolutionuc.com/) Spring 2018)
+
+* [Slides](https://docs.google.com/presentation/d/1m3zDNfvcYiz67vG0MFoYMJjZULdamLq8bNZIYN-iMb8/edit?usp=sharing)
+
 ## 2018.02.15
 
 [Docker](https://www.docker.com/) workshop (MLH Localhost)
