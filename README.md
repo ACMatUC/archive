@@ -4,6 +4,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2018.03.22
+
+Joint meeting with [ACM-W at UC](http://acmwuc.com/) and a co-op panel
+
+* [ACM@UC general updates](https://docs.google.com/presentation/d/1hGhn14XuQoM1rffxciHkZvdN3OF9hCCenhgrL75oc2U/edit?usp=sharing)
+
 ## 2018.03.01
 
 Hackathon 101 (for [RevolutionUC](http://revolutionuc.com/) Spring 2018)
