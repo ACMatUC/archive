@@ -4,12 +4,19 @@
 
 > Links to slides and other resources from our meetings
 
+## 2018.04.12
+
+Officer elections for 2018-19
+
+* [Election results](https://twitter.com/ACMatUCorg/status/984793329287118849)
+
 ## 2018.03.29
 
 Talk on browser internals and web standards by Dom Farolino
+
+* [Recorded meeting](https://www.youtube.com/watch?v=VmLYCIXVJuQ)
 * [ACM@UC general updates](https://drive.google.com/open?id=1YShB7HHH9w3rkDROFpdj__deJ-2SLGOxsv5y87sHiEQ)
 * [Talk slides](https://drive.google.com/open?id=1NYCvwL3kjNDbdApC53V2tPJVVcHT9kYg_1ME-oAaiSM)
-* Video coming soon
 
 ## 2018.03.22
 
