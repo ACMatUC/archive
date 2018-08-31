@@ -4,6 +4,13 @@
 
 > Links to slides and other resources from our meetings
 
+## 2018.08.30
+
+First meeting of the Fall 2018 semester!
+
+* Recorded meeting coming soon
+* [Slides](https://docs.google.com/presentation/d/1alFdPTiPP_i38d5QYXgpW_p_l74Pe2gNFnGSqZltKsg/edit?usp=sharing)
+
 ## 2018.04.12
 
 Officer elections for 2018-19
