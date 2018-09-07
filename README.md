@@ -8,7 +8,7 @@
 
 First meeting of the Fall 2018 semester!
 
-* Recorded meeting coming soon
+* [Recorded meeting](https://www.youtube.com/watch?v=7Lrjx2FAKME)
 * [Slides](https://docs.google.com/presentation/d/1alFdPTiPP_i38d5QYXgpW_p_l74Pe2gNFnGSqZltKsg/edit?usp=sharing)
 
 ## 2018.04.12
