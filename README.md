@@ -4,6 +4,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2018.09.13
+
+Blockchain Tech Talk
+
+* [General Updates](https://docs.google.com/presentation/d/1K6tcp_ZQGkicBmfuGFpRUEaRjt4vxJJQGcc5dD5i4KU/edit?usp=sharing)
+
 ## 2018.08.30
 
 First meeting of the Fall 2018 semester!
