@@ -6,9 +6,15 @@
 
 ## 2018.09.13
 
-Blockchain Tech Talk
+Blockchain Tech Talk (from guest [HMB](https://www.hmbnet.com/)) and Hackcon VI Recap Talk
 
-* [General Updates](https://docs.google.com/presentation/d/1K6tcp_ZQGkicBmfuGFpRUEaRjt4vxJJQGcc5dD5i4KU/edit?usp=sharing)
+* Blockchain Tech Talk
+  * Video coming soon
+  * Slides coming soon
+  * [General Updates](https://docs.google.com/presentation/d/1K6tcp_ZQGkicBmfuGFpRUEaRjt4vxJJQGcc5dD5i4KU/edit?usp=sharing)
+* Hackcon VI Recap Talk
+  * Video coming soon
+  * [Slides](https://docs.google.com/presentation/d/1enymkNtxnmrwW-pofPI5tCmrlYXxPBmIHIUepshBwsk/edit?usp=sharing)
 
 ## 2018.08.30
 
