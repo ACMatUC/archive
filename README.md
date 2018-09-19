@@ -9,11 +9,11 @@
 Blockchain Tech Talk (from guest [HMB](https://www.hmbnet.com/)) and Hackcon VI Recap Talk
 
 * Blockchain Tech Talk
-  * Video coming soon
+  * [Recorded meeting](https://www.youtube.com/watch?v=2dmQu18j8BY)
   * Slides coming soon
   * [General Updates](https://docs.google.com/presentation/d/1K6tcp_ZQGkicBmfuGFpRUEaRjt4vxJJQGcc5dD5i4KU/edit?usp=sharing)
 * Hackcon VI Recap Talk
-  * Video coming soon
+  * [Recorded meeting](https://www.youtube.com/watch?v=ZOxiL4rHmoQ)
   * [Slides](https://docs.google.com/presentation/d/1enymkNtxnmrwW-pofPI5tCmrlYXxPBmIHIUepshBwsk/edit?usp=sharing)
 
 ## 2018.08.30
