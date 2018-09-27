@@ -4,6 +4,13 @@
 
 > Links to slides and other resources from our meetings
 
+## 2018.09.27
+
+Reverse Engineering and Cyber Security Tech Talk (from guest [ICR](https://icr-team.com/))
+
+* Recorded meeting coming soon
+* [General updates](https://docs.google.com/presentation/d/1Mi6_CQrtzgDcX7NBW8gzsT1KeFwoL5xUmWbv4A235Mc/edit?usp=sharing)
+
 ## 2018.09.13
 
 Blockchain Tech Talk (from guest [HMB](https://www.hmbnet.com/)) and Hackcon VI Recap Talk
