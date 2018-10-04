@@ -4,6 +4,10 @@
 
 > Links to slides and other resources from our meetings
 
+## 2018.10.04
+
+* [Slides](https://docs.google.com/presentation/d/1_q1febSI5-zoYEoY-CSLN5umIKKSQyApfkJJ2jQBUrg/edit?usp=sharing)
+
 ## 2018.09.27
 
 Reverse Engineering and Cyber Security Tech Talk (from guest [ICR](https://icr-team.com/))
