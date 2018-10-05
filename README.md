@@ -12,7 +12,7 @@
 
 Reverse Engineering and Cyber Security Tech Talk (from guest [ICR](https://icr-team.com/))
 
-* Recorded meeting coming soon
+* [Recorded meeting](https://www.youtube.com/watch?v=yfZSv50GN-s)
 * [General updates](https://docs.google.com/presentation/d/1Mi6_CQrtzgDcX7NBW8gzsT1KeFwoL5xUmWbv4A235Mc/edit?usp=sharing)
 
 ## 2018.09.13
