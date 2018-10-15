@@ -6,6 +6,9 @@
 
 ## 2018.10.04
 
+Introduction to Version Control and Git Workshop
+
+* [Recorded meeting](https://www.youtube.com/watch?v=2eYD0M0NxSU)
 * [Slides](https://docs.google.com/presentation/d/1_q1febSI5-zoYEoY-CSLN5umIKKSQyApfkJJ2jQBUrg/edit?usp=sharing)
 
 ## 2018.09.27
