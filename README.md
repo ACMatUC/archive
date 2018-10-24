@@ -24,7 +24,7 @@ Blockchain Tech Talk (from guest [HMB](https://www.hmbnet.com/)) and Hackcon VI 
 
 * Blockchain Tech Talk
   * [Recorded meeting](https://www.youtube.com/watch?v=2dmQu18j8BY)
-  * Slides coming soon
+  * [Slides](https://drive.google.com/file/d/1N6pmLzlbYsiJqJxAwchM6kwumemPO1Jk/view?usp=sharing)
   * [General Updates](https://docs.google.com/presentation/d/1K6tcp_ZQGkicBmfuGFpRUEaRjt4vxJJQGcc5dD5i4KU/edit?usp=sharing)
 * Hackcon VI Recap Talk
   * [Recorded meeting](https://www.youtube.com/watch?v=ZOxiL4rHmoQ)
