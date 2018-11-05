@@ -8,7 +8,7 @@
 
 Tech talk: Mobile Development with iOS by [@maddie-eckhart](https://github.com/maddie-eckhart)
 
-* Recorded meeting coming soon
+* [Recorded meeting](https://www.youtube.com/watch?v=I8O_AXyq26I)
 * [Slides](https://docs.google.com/presentation/d/1G3FX-Ewk2v7prCqSSEZ2bcciAoGS0m2-Gs4vhkKygvs/edit?usp=sharing)
 * [General updates](https://docs.google.com/presentation/d/1PCcixCqiJ9MzuvnSUdgE4E6G2vyqn6Zl8PstpkaNQnQ/edit?usp=sharing)
 
