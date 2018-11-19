@@ -6,7 +6,7 @@
 
 ## 2018.11.08
 
-Tech talk: Mobile Development with Android by [William Cupp](https://github.com/maddie-eckhart)
+Tech talk: Mobile Development with Android by [William Cupp](https://github.com/willcpp)
 
 * [Slides](https://docs.google.com/presentation/d/1O0FiP0_J9yVPRIkEyHnJzWmorRBarvxbqpiA1fL_gxA/edit?usp=sharing)
 * [General updates](https://docs.google.com/presentation/d/18qCArfFjZqhedrHtSkQiMjilPLRn_iBcl4LypioRoE0/edit?usp=sharing)
