@@ -4,6 +4,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2018.11.29
+
+Tech talk: Low-Level Graphics and OpenGL by [Dom Farolino](https://github.com/domfarolino)
+
+* [General updates](https://docs.google.com/presentation/d/1_ed6AqsnFku1TRfUdjMBnNWhr-CJTsp6vHSoItQPyok/edit?usp=sharing)
+
 ## 2018.11.08
 
 Tech talk: Mobile Development with Android by [William Cupp](https://github.com/willcpp)
