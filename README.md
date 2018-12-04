@@ -8,6 +8,7 @@
 
 Tech talk: Low-Level Graphics and OpenGL by [Dom Farolino](https://github.com/domfarolino)
 
+* [Slides](https://drive.google.com/drive/folders/1me841855CXROvjIPOgZcNcwp6rpDS7bx?usp=sharing)
 * [General updates](https://docs.google.com/presentation/d/1_ed6AqsnFku1TRfUdjMBnNWhr-CJTsp6vHSoItQPyok/edit?usp=sharing)
 
 ## 2018.11.08
