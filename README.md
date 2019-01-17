@@ -4,6 +4,14 @@
 
 > Links to slides and other resources from our meetings
 
+## 2019.01.17
+
+Tech Talk: Serverless Computing by [@noahbass](https://github.com/noahbass)
+
+* [Slides](https://drive.google.com/file/d/1X_gUKzCyFtW4CmQxrtR9BcRnAt6JbC_6/view?usp=sharing)
+* [General updates](https://docs.google.com/presentation/d/1RiYq9FcdYd4UUXxiNdxlLMabFFvcdsNWSwirY6c4XIc/edit?usp=sharing)
+* [Serverless code examples](https://github.com/ACMatUC/serverless-compute-examples)
+
 ## 2018.11.29
 
 Tech talk: Low-Level Graphics and OpenGL by [Dom Farolino](https://github.com/domfarolino)
