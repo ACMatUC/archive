@@ -15,6 +15,7 @@ Tech Talk: Docker by [@zacharysang](https://github.com/zacharysang)
 
 Tech Talk: Serverless Computing by [@noahbass](https://github.com/noahbass)
 
+* [Recorded Meeting](https://www.youtube.com/watch?v=xgh-KiE1FHk)
 * [Slides](https://drive.google.com/file/d/1X_gUKzCyFtW4CmQxrtR9BcRnAt6JbC_6/view?usp=sharing)
 * [General updates](https://docs.google.com/presentation/d/1RiYq9FcdYd4UUXxiNdxlLMabFFvcdsNWSwirY6c4XIc/edit?usp=sharing)
 * [Serverless code examples](https://github.com/ACMatUC/serverless-compute-examples)
