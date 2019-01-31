@@ -4,6 +4,13 @@
 
 > Links to slides and other resources from our meetings
 
+## 2019.01.31
+
+Tech Talk: Docker by [@zacharysang](https://github.com/zacharysang)
+
+* [Slides](https://docs.google.com/presentation/d/17Tj2XTNP1oa6TQnKd8xheECe7lHWznw3hhVkIHPZ6iE/edit?usp=sharing)
+* [General updates](https://docs.google.com/presentation/d/1vXWKRfA2xUgLjZwhmaWRaItVGXRmzhlM1_gR-dCi_Ww/edit?usp=sharing)
+
 ## 2019.01.17
 
 Tech Talk: Serverless Computing by [@noahbass](https://github.com/noahbass)
