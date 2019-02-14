@@ -4,6 +4,13 @@
 
 > Links to slides and other resources from our meetings
 
+## 2019.02.14
+
+Workshop / Tech Talk: Getting Started with GitHub Pages by [@noahbass](https://github.com/noahbass)
+
+* [Slides](https://drive.google.com/file/d/1KH_fgHojCcvuKHm33uzybSm87x3yUkQA/view?usp=sharing)
+* [General updates](https://docs.google.com/presentation/d/1Ljn0_usEaAEySa67z3frCKJgv3U_2lBxs2WzudNtkuI/edit?usp=sharing)
+
 ## 2019.01.31
 
 Tech Talk: Docker by [@zacharysang](https://github.com/zacharysang)
