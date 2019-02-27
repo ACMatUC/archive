@@ -4,6 +4,12 @@
 
 > Links to slides and other resources from our meetings
 
+## 2019.02.27
+
+Hackathon 101 session
+
+* [Slides](https://docs.google.com/presentation/d/1oQPyZWop-tQjmpKurRqeev3ssNtIl0YCdhiGbkcmQD0/edit?usp=sharing)
+
 ## 2019.02.14
 
 Workshop / Tech Talk: Getting Started with GitHub Pages by [@noahbass](https://github.com/noahbass)
