@@ -8,6 +8,7 @@
 
 Hackathon 101 session
 
+* [Recorded Meeting](https://www.youtube.com/watch?v=6Q6nGNSYqGg)
 * [Slides](https://docs.google.com/presentation/d/1oQPyZWop-tQjmpKurRqeev3ssNtIl0YCdhiGbkcmQD0/edit?usp=sharing)
 
 ## 2019.02.14
