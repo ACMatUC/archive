@@ -21,6 +21,7 @@ Workshop / Tech Talk: Getting Started with GitHub Pages by [@noahbass](https://g
 
 Tech Talk: Docker by [@zacharysang](https://github.com/zacharysang)
 
+* [Recorded Meeting](https://www.youtube.com/watch?v=GNz0U1FWSfo)
 * [Slides](https://docs.google.com/presentation/d/17Tj2XTNP1oa6TQnKd8xheECe7lHWznw3hhVkIHPZ6iE/edit?usp=sharing)
 * [General updates](https://docs.google.com/presentation/d/1vXWKRfA2xUgLjZwhmaWRaItVGXRmzhlM1_gR-dCi_Ww/edit?usp=sharing)
 * [Code example](https://github.com/zacharysang/docker-demo)
