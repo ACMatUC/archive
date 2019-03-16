@@ -14,6 +14,7 @@ Hackathon 101 session
 
 Workshop / Tech Talk: Getting Started with GitHub Pages by [@noahbass](https://github.com/noahbass)
 
+* [Recorded Meeting](https://www.youtube.com/watch?v=H2xdw7vBzN0)
 * [Slides](https://drive.google.com/file/d/1KH_fgHojCcvuKHm33uzybSm87x3yUkQA/view?usp=sharing)
 * [General updates](https://docs.google.com/presentation/d/1Ljn0_usEaAEySa67z3frCKJgv3U_2lBxs2WzudNtkuI/edit?usp=sharing)
 
