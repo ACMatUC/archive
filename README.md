@@ -4,6 +4,19 @@
 
 > Links to slides and other resources from our meetings
 
+## 2019.04.11
+
+Various lightning talks and nominations for 2019-2020 officers
+
+* Recording coming soon
+* [Slides](https://docs.google.com/presentation/d/1eYvRT_qn3dCJyMHORyJtjaQY8m_vnnVJevfLRv8EvlE/edit?usp=sharing)
+
+## 2019.03.27
+
+Lightning Talks: Programming Languages
+
+* [Slides](https://docs.google.com/presentation/d/1txfePa6KPl7FbTUwjsGyr0HRxJ7rNmHXWNu6DoR0egU/edit?usp=sharing)
+
 ## 2019.02.27
 
 Hackathon 101 session
