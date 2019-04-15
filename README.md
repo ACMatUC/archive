@@ -9,6 +9,7 @@
 Various lightning talks and nominations for 2019-2020 officers
 
 * Recording coming soon
+* [Nominations for 2019-2020](https://docs.google.com/document/d/1be2dZkrz8RFvHsgAdSRQncB4Jfu139YoypKOFhKZqRw/edit?usp=sharing)
 * [Slides](https://docs.google.com/presentation/d/1eYvRT_qn3dCJyMHORyJtjaQY8m_vnnVJevfLRv8EvlE/edit?usp=sharing)
 
 ## 2019.03.27
