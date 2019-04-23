@@ -8,7 +8,7 @@
 
 Various lightning talks and nominations for 2019-2020 officers
 
-* Recording coming soon
+* [Recorded Meeting](https://www.youtube.com/watch?v=K6tbxHXTKAc)
 * [Nominations for 2019-2020](https://docs.google.com/document/d/1be2dZkrz8RFvHsgAdSRQncB4Jfu139YoypKOFhKZqRw/edit?usp=sharing)
 * [Slides](https://docs.google.com/presentation/d/1eYvRT_qn3dCJyMHORyJtjaQY8m_vnnVJevfLRv8EvlE/edit?usp=sharing)
 
@@ -16,6 +16,7 @@ Various lightning talks and nominations for 2019-2020 officers
 
 Lightning Talks: Programming Languages
 
+* [Recorded Meeting](https://www.youtube.com/watch?v=fdRXVW9ufkQ)
 * [Slides](https://docs.google.com/presentation/d/1txfePa6KPl7FbTUwjsGyr0HRxJ7rNmHXWNu6DoR0egU/edit?usp=sharing)
 
 ## 2019.02.27
