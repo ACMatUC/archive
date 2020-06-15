@@ -4,6 +4,86 @@
 
 > Links to slides and other resources from our meetings
 
+## 2020.09.04
+
+Text Mining at iCDCU Lab by Danny Wu
+
+* [Recorded Meeting](https://youtu.be/AHda-v6rdMU)
+
+## 2020.26.03
+
+Intro to Docker by @devagrawal09
+
+* [Recorded Meeting](https://youtu.be/7c8AuQ0Nljs)
+
+## 2020.12.03
+
+RESTful API Design by @Samwisebuze
+
+* [Recorded Meeting](todo)
+
+## 2020.27.02
+
+Design Systems by @WillCPP
+
+* [Recorded Meeting](https://youtu.be/PJK6oL9jfsw)
+
+## 2020.13.02
+
+Hackathon 101 by @vennemar
+
+* [Recorded Meeting](todo)
+
+## 2020.30.01
+
+Computer Vision by Noah Trenaman
+
+* [Recorded Meeting](https://youtu.be/sN5_rt9BBis)
+
+## 2020.16.01
+
+Welcome meeting and Ugly Webpage Contest by @vennemar
+
+* [Recorded Meeting](https://youtu.be/7uc2ULpjIu4)
+
+## 2019.21.11
+
+ACCEND Panel by ACM, ACM-W and IEEE
+
+* [Recorded Meeting](https://youtu.be/YAykpnTGFSU)
+
+## 2019.23.10
+
+Developing and Evaluating Informatics solutions by Danny Wu
+
+* [Recorded Meeting](https://youtu.be/zkInkBuQS-Q)
+
+## 2019.17.10
+
+Traits of an Inspiring Technical Leader by Michael Clark
+
+* [Recorded Meeting](https://youtu.be/-wrjYeVp4J8)
+
+## 2019.03.10
+
+Intro to V8 by @snyderks
+
+* [Recorded Meeting](https://youtu.be/kVeUogp5iAs)
+
+## 2019.05.09
+
+Developer 101 Git Workshop by @vennemar
+
+* [Recorded Meeting](https://youtu.be/88uAEo0KLeE)
+* [Slides](https://docs.google.com/presentation/d/1S61kaqBbBYorIvaYXFMW4VBs96WbpQPFY5WrGtYHuDQ/edit?usp=sharing)
+
+## 2019.19.09
+
+Welcome meeting by @vennemar and trivia quiz by @maddie-eckhart
+
+* [Recorded Meeting](https://youtu.be/y1ALmvlmI8Y)
+* [Slides](https://docs.google.com/presentation/d/18OFnyu947byxogig7wMkeJl0fE0b_dx1MpqaT0IzsJw/edit?usp=sharing)
+
 ## 2019.04.11
 
 Various lightning talks and nominations for 2019-2020 officers
