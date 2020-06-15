@@ -32,7 +32,7 @@ Design Systems by @WillCPP
 
 Hackathon 101 by @vennemar
 
-* [Recorded Meeting](todo)
+* [Recorded Meeting](https://youtu.be/iLTN1e0nLQM)
 
 ## 2020.30.01
 
