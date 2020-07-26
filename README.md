@@ -2,61 +2,61 @@
 
 > Links to slides and other resources from our meetings
 
-## 2020.09.04
+## 2020.04.09
 
 Text Mining at iCDCU Lab by Danny Wu
 
 * [Recorded Meeting](https://youtu.be/AHda-v6rdMU)
 
-## 2020.26.03
+## 2020.03.26
 
 Intro to Docker by @devagrawal09
 
 * [Recorded Meeting](https://youtu.be/7c8AuQ0Nljs)
 
-## 2020.12.03
+## 2020.03.12
 
 RESTful API Design by @Samwisebuze
 
 * [Recorded Meeting](todo)
 
-## 2020.27.02
+## 2020.02.27
 
 Design Systems by @WillCPP
 
 * [Recorded Meeting](https://youtu.be/PJK6oL9jfsw)
 
-## 2020.13.02
+## 2020.02.13
 
 Hackathon 101 by @vennemar
 
 * [Recorded Meeting](https://youtu.be/iLTN1e0nLQM)
 
-## 2020.30.01
+## 2020.01.30
 
 Computer Vision by Noah Trenaman
 
 * [Recorded Meeting](https://youtu.be/sN5_rt9BBis)
 
-## 2020.16.01
+## 2020.01.16
 
 Welcome meeting and Ugly Webpage Contest by @vennemar
 
 * [Recorded Meeting](https://youtu.be/7uc2ULpjIu4)
 
-## 2019.21.11
+## 2019.11.21
 
 ACCEND Panel by ACM, ACM-W and IEEE
 
 * [Recorded Meeting](https://youtu.be/YAykpnTGFSU)
 
-## 2019.23.10
+## 2019.10.23
 
 Developing and Evaluating Informatics solutions by Danny Wu
 
 * [Recorded Meeting](https://youtu.be/zkInkBuQS-Q)
 
-## 2019.17.10
+## 2019.10.17
 
 Traits of an Inspiring Technical Leader by Michael Clark
 
