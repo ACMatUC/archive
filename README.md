@@ -2,6 +2,13 @@
 
 > Links to slides and other resources from our meetings
 
+## 2020.09.03
+
+Welcome to ACM@UC 2020-21
+
+* [Recorded Meeting](https://youtu.be/sjRDhMCcWOY)
+* [Meeting Slides](https://docs.google.com/presentation/d/11h3eUAET8ofU3dQmAEGmG645GGGbiHFdh3kA9yv1ftc/edit?usp=sharing)
+
 ## 2020.04.09
 
 Text Mining at iCDCU Lab by Danny Wu
