@@ -2,6 +2,13 @@
 
 > Links to slides and other resources from our meetings
 
+## 2020.09.17
+
+Workshop: Intro to Git and the Command Line
+* [Recorded Meeting](https://www.youtube.com/watch?v=5OuqHTlkPDw)
+* [Meeting Slides](https://docs.google.com/presentation/d/1OQlTtNhxc82aj5xbW4lmfxUIalNhzJau1ti8VEO9PFg/edit#slide=id.g1628481988_0_63)
+* [Git Guide worksheet](https://docs.google.com/document/d/1dvVSiJL95ucYytoclxK8ztqWX0vi6ir3-uhhXPMKO18)
+
 ## 2020.09.03
 
 Welcome to ACM@UC 2020-21
