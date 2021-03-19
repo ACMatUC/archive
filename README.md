@@ -2,11 +2,63 @@
 
 > Links to slides and other resources from our meetings
 
+## 2021.03.18
+
+Compilers & How They Work by Brandon Starcheus and Daniel Hackney
+
+* [Recorded Meeting](https://youtu.be/rS8MZCgdjWo)
+* [Meeting Slides](https://docs.google.com/presentation/d/1xvAzVRbSohkctzxh38F9SUptvKFeisfSLs6RkC5gHys/edit?usp=sharing)
+
+## 2021.02.18
+
+Versatility of Engineering: From Biomed to SWE by Bharathi Saravanabhavan from [Johnson & Johnson](https://www.jnj.com/)
+
+* [Recorded Meeting](https://youtu.be/SE-PIZdEDog)
+
+## 2021.02.04
+
+Lightning Talks
+
+* [Recorded Meeting](https://youtu.be/oJMRhiM8yvY)
+* [Meeting Slides](https://docs.google.com/presentation/d/1cCnT_B1CsCRU5nAaSCGfM1BMYDqsWkoEE7K_JWyI6KY/edit?usp=sharing)
+
+## 2021.01.21
+
+Welcome Back!
+
+* [Recorded Meeting](https://youtu.be/TQY27Ktvqzo)
+
+## 2020.11.12
+
+Full Stack Development by Daniel Loscher from [LCS](https://www.lcs.com/)
+
+* [Recorded Meeting](https://youtu.be/b5mdvduh4Hc)
+
+## 2020.10.29
+
+Intro to the Technical Interview by Baru Yogesh
+
+* [Recorded Meeting](https://youtu.be/Ch36DKPM8SU)
+* [Meeting Slides](https://docs.google.com/presentation/d/1pyV4l8ErHPRY9deaC0Gcq6TeAYHruKrINFSlAD-_Nqc/edit?usp=sharing)
+
+## 2020.10.15
+
+Intro to Cloud with Heroku by @devagrawal09
+
+* [Recorded Meeting](https://youtu.be/oFComm9mcWo)
+
+## 2020.10.01
+
+Land a Job in a Virtual World by Nick Goliath from [Brooksource](https://www.brooksource.com)
+
+* [Recorded Meeting](https://youtu.be/nYI4or4figI)
+
 ## 2020.09.17
 
 Workshop: Intro to Git and the Command Line
+
 * [Recorded Meeting](https://www.youtube.com/watch?v=5OuqHTlkPDw)
-* [Meeting Slides](https://docs.google.com/presentation/d/1OQlTtNhxc82aj5xbW4lmfxUIalNhzJau1ti8VEO9PFg/edit#slide=id.g1628481988_0_63)
+* [Meeting Slides](https://docs.google.com/presentation/d/1OQlTtNhxc82aj5xbW4lmfxUIalNhzJau1ti8VEO9PFg/edit?usp=sharing)
 * [Git Guide worksheet](https://docs.google.com/document/d/1dvVSiJL95ucYytoclxK8ztqWX0vi6ir3-uhhXPMKO18)
 
 ## 2020.09.03
