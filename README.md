@@ -2,6 +2,13 @@
 
 > Links to slides and other resources from our meetings
 
+## 2021.08.26
+
+An Introduction to GitHub
+
+* [Recorded Meeting](https://youtu.be/tvjCYzCjnOo)
+* [Meeting Slides](https://docs.google.com/presentation/d/1xE8rxZRXfETIcXhRrQx-wohrcp4bFppxEdGy63dUb0s/edit?usp=sharing)
+
 ## 2021.03.18
 
 Compilers & How They Work by Brandon Starcheus and Daniel Hackney
