@@ -2,6 +2,29 @@
 
 > Links to slides and other resources from our meetings
 
+## 2021.10.06
+
+An Introduction to GitHub
+
+* [Recorded Meeting](https://youtu.be/hsg62SdDPYM)
+* [Meeting Slides](https://docs.google.com/presentation/d/1RJvhoAWHDnSlRVFxM5NSiH7tO7sOHZ0Fzr_PnA8djcM/edit?usp=sharing)
+
+## 2021.09.23
+
+Tech Interview Journey with Baru Yogesh
+
+* [Recorded Meeting](https://youtu.be/IqYVNP1ynKU)
+* [Meeting Slides](https://docs.google.com/presentation/d/1n4PSw1dna8qZU36mpaNZkdb5zI3V3kITYDmIdrHCqFg/edit?usp=sharing)
+* [MakeUC](https://docs.google.com/presentation/d/13rGMvk8RcXvG6vVra8oHo-6L2JvTQw_C/edit?usp=sharing&ouid=114464948781090206011&rtpof=true&sd=true)
+* [Tech Interview Journey Presentation with Baru Yogesh](https://docs.google.com/presentation/d/1-lMFypEPwPXOdwlAy6yqAI7YKRQkkZVb/edit?usp=sharing&ouid=114464948781090206011&rtpof=true&sd=true)
+
+## 2021.09.09
+
+Resume Tips by JP Morgan Chase
+
+* [Recorded Meeting](https://youtu.be/fwQ0uwW0cQc)
+* [Meeting Slides](https://docs.google.com/presentation/d/1Z900fkgRr2h6PGjpipm9TiQNG1U1OL9s6pILnIR2wdQ/edit?usp=sharing)
+
 ## 2021.08.26
 
 An Introduction to GitHub
