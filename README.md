@@ -2,9 +2,16 @@
 
 > Links to slides and other resources from our meetings
 
-## 2021.10.06
+## 2021.10.21
 
-An Introduction to GitHub
+Abstraction in Programming with Dev Agrawal
+
+* [Recorded Meeting](https://youtu.be/B1e7ilBP-5s)
+* [Meeting Slides](https://docs.google.com/presentation/d/14YKVetZifgMgMwVWcSbNeTI2C9exPY-6Hp22mMHJwBw/edit?usp=sharing)
+
+## 2021.10.07
+
+Website Fingerprinting with Boyang Wang
 
 * [Recorded Meeting](https://youtu.be/hsg62SdDPYM)
 * [Meeting Slides](https://docs.google.com/presentation/d/1RJvhoAWHDnSlRVFxM5NSiH7tO7sOHZ0Fzr_PnA8djcM/edit?usp=sharing)
