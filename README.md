@@ -2,6 +2,20 @@
 
 > Links to slides and other resources from our meetings
 
+## 2021.12.02
+
+Python Review
+
+* [Recorded Meeting](https://www.youtube.com/channel/UC817R8XmXS0Y9k--f0YFQOg/videos)
+* [Meeting Slides](https://docs.google.com/presentation/d/1TcDBXcb5dKdkVxHG2m1aZOxI_a5fYlndjsEK3bhn4wM/edit?usp=sharing)
+
+## 2021.11.18
+
+Doing Business - Intelligently: An intro to Business Intelligence with AMEND Consulting
+
+* [Recorded Meeting](https://youtu.be/Dag9owfMNXs)
+* [Meeting Slides](https://docs.google.com/presentation/d/1qQtxu0n_IP1D7BM7o_0XzufxMRQjAxkXOE5gp3spgmc/edit?usp=sharing)
+
 ## 2021.10.21
 
 Abstraction in Programming with Dev Agrawal
