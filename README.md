@@ -9,7 +9,7 @@ Python Review
 * [Recorded Meeting](https://www.youtube.com/channel/UC817R8XmXS0Y9k--f0YFQOg/videos)
 * [Meeting Slides](https://docs.google.com/presentation/d/1TcDBXcb5dKdkVxHG2m1aZOxI_a5fYlndjsEK3bhn4wM/edit?usp=sharing)
 
-## 2021.11.18
+## 2021.11.19
 
 Doing Business - Intelligently: An intro to Business Intelligence with AMEND Consulting
 
