@@ -2,11 +2,38 @@
 
 > Links to slides and other resources from our meetings
 
+## 2022.03.03
+
+Stop Using Variables -- Immutable State
+
+* [Recorded Meeting](https://youtu.be/ualrAifMBkI)
+* [Meeting Slides](https://docs.google.com/presentation/d/1Yg86srtUeer4Rre8eK1FXgZ3Xb4y5SR0IbJQjt5RtDM/edit?usp=sharing)
+
+## 2022.02.17
+
+Hackathon 101
+
+* [Recorded Meeting](https://youtu.be/-4UTy4cke4s)
+* [Meeting Slides](https://docs.google.com/presentation/d/1rtT0dg-hUrf1hX5zBVpHd0SiA9gE45G7ZtWj3L5ROXg/edit?usp=sharing)
+
+## 2022.02.03
+
+The Machine Learning Landscape
+
+* [Recorded Meeting](https://youtu.be/CBjVIPamRdo)
+* [Meeting Slides](https://docs.google.com/presentation/d/1H93NAIThFMO9Sr_kus1Wg3fODWPVlYi-87Q_bgr3r8Q/edit?usp=sharing)
+
+## 2022.01.20
+
+What's happening this semester!
+
+* [Meeting Slides](https://docs.google.com/presentation/d/1YUSTY1xPPY8j7YPDTgFjrd1eY4DAZQ1nayUrMFMlTjM/edit?usp=sharing)
+
 ## 2021.12.02
 
 Python Review
 
-* [Recorded Meeting](https://www.youtube.com/channel/UC817R8XmXS0Y9k--f0YFQOg/videos)
+* [Recorded Meeting](https://youtu.be/CkH50WVMhXs)
 * [Meeting Slides](https://docs.google.com/presentation/d/1TcDBXcb5dKdkVxHG2m1aZOxI_a5fYlndjsEK3bhn4wM/edit?usp=sharing)
 
 ## 2021.11.19
