@@ -2,9 +2,21 @@
 
 > Links to slides and other resources from our meetings
 
+Intro to GANs by Daniel Hackney
+
+* [Recorded Meeting](https://youtu.be/evPHci4_hQE)
+* [Meeting Slides](https://docs.google.com/presentation/d/1Ca4NnmyvCs64j4OK2YQbE8Ip4Sig2xgK54OTmmW6rt8/edit?usp=sharing)
+
+## 2022.03.24
+
+Intro to Web3 and Metaverse by Kunal Kewalramani
+
+* [Recorded Meeting](https://youtu.be/sQfHRPHjCGo)
+* [Meeting Slides](https://docs.google.com/presentation/d/1LPQIaXfMl-AV2tPJBq2KxzwJhAC6i5X1U6XIxTHuJaE/edit?usp=sharing)
+
 ## 2022.03.03
 
-Stop Using Variables -- Immutable State
+Stop Using Variables -- Immutable State by Spencer Wolf
 
 * [Recorded Meeting](https://youtu.be/ualrAifMBkI)
 * [Meeting Slides](https://docs.google.com/presentation/d/1Yg86srtUeer4Rre8eK1FXgZ3Xb4y5SR0IbJQjt5RtDM/edit?usp=sharing)
@@ -18,7 +30,7 @@ Hackathon 101
 
 ## 2022.02.03
 
-The Machine Learning Landscape
+The Machine Learning Landscape by Nishil Faldu
 
 * [Recorded Meeting](https://youtu.be/CBjVIPamRdo)
 * [Meeting Slides](https://docs.google.com/presentation/d/1H93NAIThFMO9Sr_kus1Wg3fODWPVlYi-87Q_bgr3r8Q/edit?usp=sharing)
