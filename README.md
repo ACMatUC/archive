@@ -2,6 +2,92 @@
 
 > Links to slides and other resources from our meetings
 
+
+## 2022.03.31
+
+Generative Adversarial Networks by Daniel Hackney
+* [Recorded Meeting](https://youtu.be/evPHci4_hQE)
+* [Meeting Slides](https://docs.google.com/presentation/d/1Ca4NnmyvCs64j4OK2YQbE8Ip4Sig2xgK54OTmmW6rt8/edit?usp=sharing)
+
+## 2022.03.24
+
+Intro to Web3 and the Metaverse by Kunal Kewalramani
+* [Recorded Meeting](https://youtu.be/sQfHRPHjCGo)
+* [Meeting Slides](https://docs.google.com/presentation/d/1LPQIaXfMl-AV2tPJBq2KxzwJhAC6i5X1U6XIxTHuJaE/edit?usp=sharing)
+
+## 2022.03.03
+
+"Stop Making Variables" - Immutable States by Spencer Wolf
+* [Recorded Meeting](https://youtu.be/ualrAifMBkI)
+* [Meeting Slides](https://docs.google.com/presentation/d/1Yg86srtUeer4Rre8eK1FXgZ3Xb4y5SR0IbJQjt5RtDM/edit?usp=sharing)
+
+## 2022.02.17
+
+Hackathon 101 (RevolutionUC Prep)
+* [Recorded Meeting](https://youtu.be/-4UTy4cke4s)
+* [Meeting Slides](https://docs.google.com/presentation/d/1rtT0dg-hUrf1hX5zBVpHd0SiA9gE45G7ZtWj3L5ROXg/edit?usp=sharing)
+
+## 2022.02.03
+
+Intro to Machine Learning by Nishil Faldu
+* [Recorded Meeting](https://youtu.be/CBjVIPamRdo)
+* [Meeting Slides](https://docs.google.com/presentation/d/1H93NAIThFMO9Sr_kus1Wg3fODWPVlYi-87Q_bgr3r8Q/edit?usp=sharing)
+
+## 2022.01.20
+
+Welcome Back to Spring Semester!
+* [Meeting Slides](https://docs.google.com/presentation/d/1YUSTY1xPPY8j7YPDTgFjrd1eY4DAZQ1nayUrMFMlTjM/edit?usp=sharing)
+
+## 2021.12.02
+
+Python Review Session (For ENED1100 and other classes)
+* [Recorded Meeting](https://youtu.be/CkH50WVMhXs)
+* [Meeting Slides](https://docs.google.com/presentation/d/1TcDBXcb5dKdkVxHG2m1aZOxI_a5fYlndjsEK3bhn4wM/edit?usp=sharing)
+
+## 2021.11.18
+
+Intro to Business Intelligence and PowerBI by AMEND Consulting
+* [Recorded Meeting](https://youtu.be/Dag9owfMNXs)
+* [Meeting Slides](https://docs.google.com/presentation/d/1TcDBXcb5dKdkVxHG2m1aZOxI_a5fYlndjsEK3bhn4wM/edit?usp=sharing)
+
+## 2021.11.04
+
+Mystery Meeting - Bearcat Ventures
+* [Meeting Slides](https://docs.google.com/presentation/d/1qQtxu0n_IP1D7BM7o_0XzufxMRQjAxkXOE5gp3spgmc/edit?usp=sharing)
+* [Meeting Slides 2](https://docs.google.com/presentation/d/1VdJLSgUbLS11u6QTL4csiUdYoOzZOzHJ/edit?usp=sharing&ouid=108049390894757244101&rtpof=true&sd=true)
+
+## 2021.10.21
+
+Abstraction in Programming by Dev Agrawal
+* [Recorded Meeting](https://youtu.be/B1e7ilBP-5s)
+* [Meeting Slides](https://docs.google.com/presentation/d/1y8uTX6ZEa4464ZaprotRQwdf6dV5RnsB2f1gz776VjA/edit?usp=sharing)
+
+## 2021.10.07
+
+Website Fingerprinting over Encrypted Traffic with Transfer Learning by Dr. Boyang Wang
+* [Recorded Meeting](https://youtu.be/hsg62SdDPYM)
+* [Meeting Slides](https://docs.google.com/presentation/d/1RJvhoAWHDnSlRVFxM5NSiH7tO7sOHZ0Fzr_PnA8djcM/edit?usp=sharing)
+
+
+## 2021.09.23
+
+Technical Interview Experiences by Baru Yogesh
+* [Recorded Meeting](https://youtu.be/IqYVNP1ynKU)
+* [Meeting Slides](https://docs.google.com/presentation/d/1-lMFypEPwPXOdwlAy6yqAI7YKRQkkZVb/edit?usp=sharing&ouid=108049390894757244101&rtpof=true&sd=true)
+
+## 2021.09.09
+
+Resume Tips by JP Morgan
+* [Recorded Meeting](https://youtu.be/fwQ0uwW0cQc)
+* [Meeting Slides](https://docs.google.com/presentation/d/1Z900fkgRr2h6PGjpipm9TiQNG1U1OL9s6pILnIR2wdQ/edit?usp=sharing)
+
+## 2021.08.26
+
+Welcome to ACM@UC 2021-2022
+
+* [Recorded Meeting](https://youtu.be/tvjCYzCjnOo)
+* [Meeting Slides](https://docs.google.com/presentation/d/1xE8rxZRXfETIcXhRrQx-wohrcp4bFppxEdGy63dUb0s/edit?usp=sharing)
+
 ## 2021.03.18
 
 Compilers & How They Work by Brandon Starcheus and Daniel Hackney
