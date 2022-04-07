@@ -15,6 +15,11 @@ Intro to Web3 and the Metaverse by Kunal Kewalramani
 * [Recorded Meeting](https://youtu.be/sQfHRPHjCGo)
 * [Meeting Slides](https://docs.google.com/presentation/d/1LPQIaXfMl-AV2tPJBq2KxzwJhAC6i5X1U6XIxTHuJaE/edit?usp=sharing)
 
+## 2022.03.10
+
+Senior Electives Panel by ACM@UC, ACM-W@UC, WIT
+* [Meeting Slides](https://docs.google.com/presentation/d/18icIBqFDiXYfpUXKcBKvyemM1UHPf_BDWBQ_enIKn9w/edit?usp=sharing)
+
 ## 2022.03.03
 
 "Stop Making Variables" - Immutable States by Spencer Wolf
