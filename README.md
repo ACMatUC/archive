@@ -1,7 +1,38 @@
-# Archive
+# Archive 🗃️
 
 > Links to slides and other resources from our meetings
 
+# Fall 2022 meetings
+
+## 2022.11.17
+Modern Cloud services, by Dev Agrawal
+* [Recorded meeting](https://youtu.be/EyGMpEgmRMo)
+
+## 2022.11.03
+The world of Consulting - an AMEND LLC info session
+* [Recorded meeting](https://youtu.be/0u9Vm1S3v7Q)
+
+## 2022.10.20
+Job searching through Social Media, by Taylor Desseyn - ACM@UC x ITSA Guest speaker event
+* [Recorded meeting](https://youtu.be/vFt4NzSjq_g)
+
+## 2022.10.06
+Exploring the Cache to make gains, by Professor Will Hawkins
+* [Recorded meeting](https://youtu.be/DP9CDQT7Vg0)
+
+## 2022.09.14
+Co-op advisor panel: Job search advice, by Professor Dewey Clark and Professor Gwen Roemer
+* [Recorded meeting](https://youtu.be/12tdh_1lh4w)
+
+## 2022.09.08
+ACM@UC career tips and tricks from our exececutives
+* [Recorded meeting](https://youtu.be/we_Ismg66Hg)
+
+## 2022.08.25
+Fall 2022 welcome meeting - Intro to Git & Github
+* [Recorded meeting](https://youtu.be/IwyS8aMyZck)
+
+# Spring 2022 meetings
 
 ## 2022.03.31
 
