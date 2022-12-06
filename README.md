@@ -74,6 +74,8 @@ Intro to Machine Learning by Nishil Faldu
 Welcome Back to Spring Semester!
 * [Meeting Slides](https://docs.google.com/presentation/d/1YUSTY1xPPY8j7YPDTgFjrd1eY4DAZQ1nayUrMFMlTjM/edit?usp=sharing)
 
+# Fall 2021 meetings
+
 ## 2021.12.02
 
 Python Review Session (For ENED1100 and other classes)
@@ -124,6 +126,8 @@ Welcome to ACM@UC 2021-2022
 * [Recorded Meeting](https://youtu.be/tvjCYzCjnOo)
 * [Meeting Slides](https://docs.google.com/presentation/d/1xE8rxZRXfETIcXhRrQx-wohrcp4bFppxEdGy63dUb0s/edit?usp=sharing)
 
+# Spring 2021 meetings
+
 ## 2021.03.18
 
 Compilers & How They Work by Brandon Starcheus and Daniel Hackney
@@ -149,6 +153,8 @@ Lightning Talks
 Welcome Back!
 
 * [Recorded Meeting](https://youtu.be/TQY27Ktvqzo)
+
+# Fall 2020 meetings
 
 ## 2020.11.12
 
@@ -189,6 +195,8 @@ Welcome to ACM@UC 2020-21
 
 * [Recorded Meeting](https://youtu.be/sjRDhMCcWOY)
 * [Meeting Slides](https://docs.google.com/presentation/d/11h3eUAET8ofU3dQmAEGmG645GGGbiHFdh3kA9yv1ftc/edit?usp=sharing)
+
+# Spring 2020 meetings
 
 ## 2020.04.09
 
@@ -232,6 +240,8 @@ Welcome meeting and Ugly Webpage Contest by @vennemar
 
 * [Recorded Meeting](https://youtu.be/7uc2ULpjIu4)
 
+# Fall 2019 meetings
+
 ## 2019.11.21
 
 ACCEND Panel by ACM, ACM-W and IEEE
@@ -250,25 +260,27 @@ Traits of an Inspiring Technical Leader by Michael Clark
 
 * [Recorded Meeting](https://youtu.be/-wrjYeVp4J8)
 
-## 2019.03.10
+## 2019.10.03
 
 Intro to V8 by @snyderks
 
 * [Recorded Meeting](https://youtu.be/kVeUogp5iAs)
 
-## 2019.05.09
+## 2019.09.05
 
 Developer 101 Git Workshop by @vennemar
 
 * [Recorded Meeting](https://youtu.be/88uAEo0KLeE)
 * [Slides](https://docs.google.com/presentation/d/1S61kaqBbBYorIvaYXFMW4VBs96WbpQPFY5WrGtYHuDQ/edit?usp=sharing)
 
-## 2019.19.09
+## 2019.09.19
 
 Welcome meeting by @vennemar and trivia quiz by @maddie-eckhart
 
 * [Recorded Meeting](https://youtu.be/y1ALmvlmI8Y)
 * [Slides](https://docs.google.com/presentation/d/18OFnyu947byxogig7wMkeJl0fE0b_dx1MpqaT0IzsJw/edit?usp=sharing)
+
+# Spring 2019 meetings
 
 ## 2019.04.11
 
@@ -318,6 +330,8 @@ Tech Talk: Serverless Computing by [@noahbass](https://github.com/noahbass)
 * [Slides](https://drive.google.com/file/d/1X_gUKzCyFtW4CmQxrtR9BcRnAt6JbC_6/view?usp=sharing)
 * [General updates](https://docs.google.com/presentation/d/1RiYq9FcdYd4UUXxiNdxlLMabFFvcdsNWSwirY6c4XIc/edit?usp=sharing)
 * [Serverless code examples](https://github.com/ACMatUC/serverless-compute-examples)
+
+# Fall 2018 meetings
 
 ## 2018.11.29
 
@@ -374,6 +388,8 @@ First meeting of the Fall 2018 semester!
 * [Recorded meeting](https://www.youtube.com/watch?v=7Lrjx2FAKME)
 * [Slides](https://docs.google.com/presentation/d/1alFdPTiPP_i38d5QYXgpW_p_l74Pe2gNFnGSqZltKsg/edit?usp=sharing)
 
+# Spring 2018 meetings
+
 ## 2018.04.12
 
 Officer elections for 2018-19
@@ -425,6 +441,8 @@ Technical interview practice
 * [Recorded meeting](https://www.youtube.com/watch?v=raFfsqarrAo&feature=youtu.be&t=6s)
 * [Slides](https://docs.google.com/presentation/d/10qLKPEamF78bsfpaX-VJ3Fvtp4VomEqnwHVM7ByUkb0/edit?usp=sharing)
 * [ACM@UC general updates](https://docs.google.com/presentation/d/1ni2HTa8y1AtKO8H1SptdaCdpYotoAfVsv2Gt3fm43NE/edit?usp=sharing)
+
+# Fall 2017 meetings
 
 ## 2017.11.30
 
@@ -481,6 +499,8 @@ First meeting of the Fall 2017 semester
 * [Recorded meeting](https://www.youtube.com/watch?v=_UcH707dUvA)
 * [Slides](https://docs.google.com/presentation/d/1bX8QRSroTcwNWBRVgZttvOZimsCO_-Curk2D-64tFOY/edit?usp=sharing)
 
+# Spring 2017 meetings
+
 ## 2017.04.13
 
 Officer elections for 2017-18
@@ -535,6 +555,8 @@ CS review session: The core concepts of C++ - Pointers
 First meeting of the spring semester and a co-op panel!
 
 * [Slides](https://docs.google.com/presentation/d/1nu5tpDrHQDA6dOjPrOcebgfLFwGdENoGJLaNo0QJQXg/edit?usp=sharing)
+
+# Fall 2016 meetings
 
 ## 2016.12.01
 
