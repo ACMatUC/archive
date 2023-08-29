@@ -2,6 +2,12 @@
 
 > Links to slides and other resources from our meetings
 
+# Fall 2023 meetings
+
+## 2023.8.24
+Fall 2023 Welcome Meeting - Introduction and Icebreakers
+* [Recorded meeting](https://youtu.be/VZeVs0Sw0KE?si)
+
 # Fall 2022 meetings
 
 ## 2022.11.17
