@@ -4,6 +4,10 @@
 
 # Fall 2023 meetings
 
+## 2023.9.07
+AI-powered Web Applications using Vercel AI SDK, by Bao Huynh
+* [Recorded meeting](https://youtu.be/ERwtriTLNX8)
+
 ## 2023.8.24
 Fall 2023 Welcome Meeting - Introduction and Icebreakers
 * [Recorded meeting](https://youtu.be/VZeVs0Sw0KE?si)
