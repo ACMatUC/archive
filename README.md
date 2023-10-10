@@ -4,6 +4,10 @@
 
 # Fall 2023 meetings
 
+## 2023.9.21
+The Kernel, by William Hawkins III
+* [Recorded meeting](https://youtu.be/cSXMs8D32Ag)
+
 ## 2023.9.07
 AI-powered Web Applications using Vercel AI SDK, by Bao Huynh
 * [Recorded meeting](https://youtu.be/ERwtriTLNX8)
