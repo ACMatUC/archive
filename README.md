@@ -4,6 +4,10 @@
 
 # Fall 2023 meetings
 
+## 2023.10.19
+Data Engineering and Informational Overview of 84.51, by Will Cupp
+* [Recorded meeting](https://youtu.be/OpQDiGWYbCs)
+
 ## 2023.9.21
 The Kernel, by Will Hawkins III
 * [Recorded meeting](https://youtu.be/cSXMs8D32Ag)
