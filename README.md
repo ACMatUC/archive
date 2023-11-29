@@ -4,6 +4,14 @@
 
 # Fall 2023 meetings
 
+## 2023.11.16
+GitHub Philosophy, by Jim Kohl
+* [Recorded meeting](https://youtu.be/4ip6AWyzjuU)
+
+## 2023.11.02
+Using AI in Medical Informatics, by Danny Wu
+* [Recorded meeting](https://youtu.be/g40n-r8MHNU)
+
 ## 2023.10.19
 Data Engineering and Informational Overview of 84.51, by Will Cupp
 * [Recorded meeting](https://youtu.be/OpQDiGWYbCs)
